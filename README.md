@@ -51,20 +51,20 @@
 </div>
 
 ###
-
+<!--
 <div align="right">
   <a href="https://www.linkedin.com/in/jeremy-ky/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
+-->
 ###
 
 <img align="right" height="150" src="https://64.media.tumblr.com/ea0c9b116e02efbe5aab6250a3ccbac7/8b9481104bdce1ad-53/s1280x1920/9085c9e9a7af5ec2884f3fb4cab3e122906b6a7c.gif"  />
 
 ###
 
-<p align="left">🌱 I’m currently learning Object Detection using YOLOv8<br><br>    👨‍💻 All of my projects are available at https://www.cs.virginia.edu/~juh7hc/<br><br>    💬 Ask me about potential SWE, MLE, Research internships. Always open to collaboration on projects!<br><br>    📫 How to reach me ky.jeremy@virginia.edu<br><br>    ⚡ Fun fact I train MMA!</p>
+<p align="left">🌱 I’m currently learning Object Detection using YOLOv8, AWS<br><br>    👨‍💻 All of my projects are available at https://www.cs.virginia.edu/~juh7hc/<br><br>    💬 Ask me about potential SWE, MLE, Research internships. Always open to collaboration on projects!<br><br>  <!--  📫 How to reach me ky.jeremy@virginia.edu<br><br>    ⚡ Fun fact I train MMA!--></p>
 
 ###
 
