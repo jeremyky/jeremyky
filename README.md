@@ -64,7 +64,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Object Detection using YOLOv8, AWS<br><br>    👨‍💻 All of my projects are available at https://www.cs.virginia.edu/~juh7hc/<br><br>    💬 Ask me about potential SWE, MLE, Research internships. Always open to collaboration on projects!<br><br>  <!--  📫 How to reach me ky.jeremy@virginia.edu<br><br>    ⚡ Fun fact I train MMA!--></p>
+<p align="left">🌱 I’m currently learning Object Detection using YOLOv8, AWS, HPC<br><br>    👨‍💻 All of my projects are available at https://www.cs.virginia.edu/~juh7hc/<br><br>    💬 Ask me about potential SWE, MLE, Research internships. Always open to collaboration on projects!<br><br>  <!--  📫 How to reach me ky.jeremy@virginia.edu<br><br>    ⚡ Fun fact I train MMA!--></p>
 
 ###
 
