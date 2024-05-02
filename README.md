@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Computer Science @ UVA | Computer Vision Research Intern | Neuroinformatics Research Intern</h3>
+<h3 align="center">Computer Science + Math @ UVA</h3>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Object Detection using YOLOv8, AWS, HPC<br><br>    👨‍💻 All of my projects are available at https://www.cs.virginia.edu/~juh7hc/<br><br>    💬 Ask me about potential SWE, MLE, Research internships. Always open to collaboration on projects!<br><br>  <!--  📫 How to reach me ky.jeremy@virginia.edu<br><br>    ⚡ Fun fact I train MMA!--></p>
+<p align="left">🌱 I'm currently involved in undergraduate research. <br><br>    👨‍💻 All of my projects are available at https://<br><br>    💬 Ask me about potential SWE, MLE, Research internships. Always open to collaboration on projects!<br><br>    📫 How to reach me ky.jeremy@virginia.edu<br><br></p>
 
 ###
 
