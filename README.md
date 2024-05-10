@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Computer Science + Math @ UVA</h3>
+<h3 align="center">Computer Science + Statistics @ UVA | Research Assistant </h3>
 
 ###
 
