@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Computer Science + Statistics @ UVA | Research Assistant </h3>
+<h3 align="center">Computer Science + Mathematics @ UVA </h3>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<p align="left">🌱 I'm currently involved in undergraduate research. <br><br>    👨‍💻 All of my projects are available at https://<br><br>    💬 Ask me about potential SWE, MLE, Research internships. Always open to collaboration on projects!<br><br>    📫 How to reach me ky.jeremy@virginia.edu<br><br></p>
+<p align="left">🌱 I'm currently involved in undergraduate research. <br><br>    👨‍💻 All of my projects are available at https://<br><br>    💬 Ask me about potential research internships. Always open to collaboration on projects!<br><br>    📫 How to reach me ky.jeremy@virginia.edu<br><br></p>
 
 ###
 
