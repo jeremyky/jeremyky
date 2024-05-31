@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🌱 I'm currently involved in undergraduate research. <br><br>    👨‍💻 All of my projects are available at https://jeremyky.github.io/<br><br>    💬 I'm interested in SWE, ML, and Research opprotunities, please feel free to reach out!<br><br>    📫 Reach me at ky.jeremy@virginia.edu<br><br></p>
+<p align="left">🌱 I'm currently involved in undergraduate research. <br><br>    👨‍💻 All of my projects are available at https://jeremyky.github.io/<br><br>    💬 I'm interested in SWE, ML, and Research opprotunities, please feel free to reach out!<br><br>    📫 Reach me at ky.jeremy@virginia.edu and https://www.linkedin.com/in/jeremy-ky/<br><br></p>
 
 ###
 
